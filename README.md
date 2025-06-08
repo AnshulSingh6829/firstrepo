@@ -1,3 +1,3 @@
 # firstrepo
-this is my first rero
+this is my first repo
 aurthor
